@@ -2,7 +2,7 @@
 
 # 🎴Hi , I'm Nakhushev Arthur🎴
 ### RSUE student
-### backend developer
+### Backend developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CJArthur&label=Profile%20views&color=0e75b6&style=flat" alt="CJArthur" /> </p>
 
 
