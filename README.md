@@ -35,7 +35,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,sqlite,supabase,redis"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
@@ -47,7 +47,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
