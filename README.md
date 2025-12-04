@@ -11,11 +11,11 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=0AFF80&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Sklyarenko+Vladislav;Backend+Developer;SUAI+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=0AFF80&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Nakhushev+Arthur;Backend+Developer;RSUE+Student" alt="Typing SVG" />
 </h1>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sklyarvladislav&label=Profile+views&color=0aff80&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CJArthur&label=Profile+views&color=0aff80&style=flat" alt="Profile Views" />
 </p>
 
 </div>
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sklyarvladislav&bg_color=0d1f17&color=4cff9c&line=00ff88&point=00c96b&area=true&hide_border=true" alt="activity-graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJArthur&bg_color=0d1f17&color=4cff9c&line=00ff88&point=00c96b&area=true&hide_border=true" alt="activity-graph" />
   </a>
 </p>
 
@@ -37,9 +37,9 @@
 <div align="center">
 
 <!-- Трофеи -->
-<a href="https://github.com/sklyarvladislav">
+<a href="https://github.com/CJArthur">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=sklyarvladislav&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
+    src="https://github-profile-trophy.vercel.app/?username=CJArthur&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
 </a>
 
 <br />
@@ -49,14 +49,14 @@
   <tr>
     <!-- Streak -->
     <td>
-      <a href="https://github.com/sklyarvladislav">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sklyarvladislav&theme=dark&background=0D1F17&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" />
+      <a href="https://github.com/CJArthur">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CJArthur&theme=dark&background=0D1F17&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" />
       </a>
     </td>
     <!-- Общая статистика -->
     <td>
-      <a href="https://github.com/sklyarvladislav">
-        <img src="https://github-readme-stats.zcy.dev/api?username=sklyarvladislav&show_icons=true&theme=dark&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=ccffe8&bg_color=0D1F17" />
+      <a href="https://github.com/CJArthur">
+        <img src="https://github-readme-stats.zcy.dev/api?username=CJArthur&show_icons=true&theme=dark&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=ccffe8&bg_color=0D1F17" />
       </a>
     </td>
   </tr>
@@ -66,7 +66,7 @@
 <!-- Top Languages -->
 <a href="https://github.com/sklyarvladislav">
   <img
-    src="https://github-readme-stats.zcy.dev/api/top-langs?username=sklyarvladislav&layout=compact&theme=dark&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=ccffe8&bg_color=0D1F17" />
+    src="https://github-readme-stats.zcy.dev/api/top-langs?username=CJArthur&layout=compact&theme=dark&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=ccffe8&bg_color=0D1F17" />
 </a>
 
 </div>
