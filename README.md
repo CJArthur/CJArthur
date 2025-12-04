@@ -6,21 +6,70 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CJArthur&label=Profile%20views&color=0e75b6&style=flat" alt="CJArthur" /> </p>
 
 
-<h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CJArthur&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
-  <a href="https://github.com/CJArthur">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CJArthur&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CJArthur&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-  </a>
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=800&color=0AFF80&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Sklyarenko+Vladislav;Backend+Developer;SUAI+Student" alt="Typing SVG" />
+</h1>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sklyarvladislav&label=Profile+views&color=0aff80&style=flat" alt="Profile Views" />
+</p>
+
 </div>
+
+---
+
+## 🌱 **Activity**
+
 <p align="center">
-  <a href="https://github.com/CJArthur">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CJArthur&&theme=tokyonight" alt="RResabala2015" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sklyarvladislav&bg_color=0d1f17&color=4cff9c&line=00ff88&point=00c96b&area=true&hide_border=true" alt="activity-graph" />
   </a>
 </p>
+
+---
+
+## ⚡ **GitHub Stats**
+
+<div align="center">
+
+<!-- Трофеи -->
+<a href="https://github.com/sklyarvladislav">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sklyarvladislav&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10" />
+</a>
+
+<br />
+
+
+<table align="center">
+  <tr>
+    <!-- Streak -->
+    <td>
+      <a href="https://github.com/sklyarvladislav">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sklyarvladislav&theme=dark&background=0D1F17&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" />
+      </a>
+    </td>
+    <!-- Общая статистика -->
+    <td>
+      <a href="https://github.com/sklyarvladislav">
+        <img src="https://github-readme-stats.zcy.dev/api?username=sklyarvladislav&show_icons=true&theme=dark&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=ccffe8&bg_color=0D1F17" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<!-- Top Languages -->
+<a href="https://github.com/sklyarvladislav">
+  <img
+    src="https://github-readme-stats.zcy.dev/api/top-langs?username=sklyarvladislav&layout=compact&theme=dark&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=ccffe8&bg_color=0D1F17" />
+</a>
+
+</div>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
