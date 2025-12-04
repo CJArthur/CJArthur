@@ -1,8 +1,4 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-# 🎴Hi , I'm Nakhushev Arthur🎴
-### RSUE student
-### Backend developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CJArthur&label=Profile%20views&color=0e75b6&style=flat" alt="CJArthur" /> </p>
 
 
