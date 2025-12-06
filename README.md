@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJArthur&bg_color=0d1f17&color=0000CD&line=00ff88&point=00c96b&area=true&hide_border=true" alt="activity-graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJArthur&bg_color=0d1f17&color=4cff9c&line=00ff88&point=00c96b&area=true&hide_border=true" alt="activity-graph" />
   </a>
 </p>
 
