@@ -1,5 +1,4 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CJArthur&label=Profile%20views&color=0000CD&style=flat" alt="CJArthur" /> </p>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
